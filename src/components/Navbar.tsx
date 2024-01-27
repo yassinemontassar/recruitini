@@ -12,9 +12,9 @@ export default function Navbar() {
                     src={logo}
                     width={40}
                     height={40}
-                    alt="flow jobs logo"
+                    alt="Recruitini logo"
                     />
-                    <span className="text-xl font-bold tracking-tight">Flow Jobs</span>
+                    <span className="text-xl font-bold tracking-tight">Recruitini</span>
                 </Link>
                 <Button asChild  >
                     <Link href="/jobs/new">Post a job</Link>

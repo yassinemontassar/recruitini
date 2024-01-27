@@ -79,7 +79,7 @@ export default async function JobFilderSidebar({
               className="scale-125 accent-black"
               defaultChecked={defaultValues.remote}
             />
-            <Label htmlFor="remote">Travail à distance</Label>
+            <Label htmlFor="remote">Remote</Label>
           </div>
           <FormSubmitButton  className="w-full">
             Filtrer les emplois

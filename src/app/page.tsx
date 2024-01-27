@@ -34,7 +34,7 @@ return {
     type,
     location,
     remote: remote === "true"
-  })} | Flow Jobs`
+  })} | Recruitini`
 }
   }
 
